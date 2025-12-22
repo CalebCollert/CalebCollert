@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there!
 
-<!--
-**CalebCollert/CalebCollert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Caleb Collert**, a Computer Science student attending Ohio Northern University.<br>
+I design web apps and video games in my free time.
 
-Here are some ideas to get you started:
+### What I'm Working on
+- 2D idle game with the Unity engine
+- Chess post-game-review web application
+- Learning frontend development
+- Getting my Bachelor's in CS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+*Languages:* C#, HTML, TypeScript, JavaScript  
+*Styling:* CSS  
+*Frameworks:* React  
+*Platforms:* Unity, Vite  
+
+If you have any questions, or would like to reach out, please contact me at cecollert@gmail.com
