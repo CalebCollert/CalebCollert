@@ -12,7 +12,7 @@ I design web apps and video games in my free time.
 ### Tech Stack
 *Languages:* C#, HTML, TypeScript  
 *Styling:* CSS  
-*Frameworks:* ASP.NET, Blazor
+*Frameworks:* ASP.NET, Blazor  
 *Platforms:* Unity, .NET
 
 If you have any questions, or would like to reach out, please contact me at cecollert@gmail.com
