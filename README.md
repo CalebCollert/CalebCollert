@@ -10,9 +10,9 @@ I design web apps and video games in my free time.
 - Getting my Bachelor's in CS
 
 ### Tech Stack
-*Languages:* C#, HTML, TypeScript, JavaScript  
+*Languages:* C#, HTML, TypeScript  
 *Styling:* CSS  
-*Frameworks:* React  
-*Platforms:* Unity, Vite  
+*Frameworks:* ASP.NET, Blazor
+*Platforms:* Unity, .NET
 
 If you have any questions, or would like to reach out, please contact me at cecollert@gmail.com
